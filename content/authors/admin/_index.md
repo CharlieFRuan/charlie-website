@@ -80,7 +80,7 @@ I am a first-year MSCS student at Carnegie Mellon University,
 where I am fortunate to work with [Prof. Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/).
 
 My focus is at the intersection of machine learning and systems, with various open-source
-development experience. I am the current lead of [WebLLM](https://github.com/mlc-ai/web-llm), a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm), and have
+development experience. I am the current lead of [Web LLM](https://github.com/mlc-ai/web-llm), a core contributor to [MLC LLM](https://github.com/mlc-ai/mlc-llm), and have
 been contributing to [ApacheTVM](https://github.com/apache/tvm). I also contributed to [Tensorflow](https://github.com/tensorflow/tensorflow) as part of
 Google's TF Runtime team in Summer 2023.
 

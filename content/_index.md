@@ -46,6 +46,7 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: Enable universal native deployment for LLMs through machine learning compilation techniques
+          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/mlc-ai/mlc-llm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">mlc-llm</a></div>
         - title: Project Lead
           company: Web LLM
           company_url: https://github.com/mlc-ai/web-llm
@@ -54,6 +55,7 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: Leading the project to bring LLMs to run locally in client-side browser with WebGPU acceleration
+          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/mlc-ai/web-llm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">web-llm</a></div>
     design:
       columns: '2'
   - block: experience
