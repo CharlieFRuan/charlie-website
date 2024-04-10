@@ -26,7 +26,7 @@ sections:
         - title: Software Engineer Intern
           company: Google
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-x
           location: Sunnyvale, CA
           date_start: '2023-06-01'
           date_end: '2023-08-31'
@@ -34,15 +34,15 @@ sections:
         - title: Software Engineer Intern
           company: Google Cloud
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-x
           location: Sunnyvale, CA
           date_start: '2022-08-01'
           date_end: '2022-10-31'
           description: Worked on Technical Infrastructure's Platform team, deploying accelerators in Google data centers using OpenBMC, implementing Linux daemon and firmware updates
         - title: Software Engineer Intern
           company: Amazon Robotics
-          company_url: ''
-          company_logo: org-gc
+          company_url: https://www.amazon.jobs/en/teams/amazon-robotics
+          company_logo: org-x
           location: Greater Boston, MA
           date_start: '2022-05-01'
           date_end: '2022-07-31'
@@ -50,7 +50,7 @@ sections:
         - title: Software Engineer Intern
           company: XPENG Motors
           company_url: https://www.xpeng.com/
-          company_logo: org-gc
+          company_logo: xpeng-icon
           location: Shanghai, China
           date_start: '2021-06-01'
           date_end: '2021-08-31'
