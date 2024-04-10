@@ -73,7 +73,7 @@ sections:
         - title: Research Assistant
           company: Prof. Christopher De Sa, Cornell University
           company_url: ''
-          company_logo: cmu-icon
+          company_logo: cornell-icon
           location: Ithaca, NY
           date_start: '2022-09-01'
           date_end: '2023-06-30'
@@ -81,7 +81,7 @@ sections:
         - title: Research Assistant
           company: Prof. Jim Dai, Cornell University
           company_url: ''
-          company_logo: cmu-icon
+          company_logo: cornell-icon
           location: Pittsburgh, PA
           date_start: '2021-11-01'
           date_end: '2022-09-30'
