@@ -81,7 +81,7 @@ where I am fortunate to work with [Prof. Tianqi Chen](https://tqchen.com/) as pa
 
 My focus is at the intersection of machine learning and systems, with various open-source
 development experience. I am the current lead of [Web LLM](https://github.com/mlc-ai/web-llm), a core contributor to [MLC LLM](https://github.com/mlc-ai/mlc-llm), and have
-been contributing to [ApacheTVM](https://github.com/apache/tvm). I also contributed to [Tensorflow](https://github.com/tensorflow/tensorflow) as part of
+been contributing to [ApacheTVM](https://github.com/apache/tvm). I also contributed to [TensorFlow](https://github.com/tensorflow/tensorflow) as part of
 Google's TF Runtime team in Summer 2023.
 
 Prior to coming to CMU, I obtained my B.S. degree in Computer Science and Operations Research from Cornell University,

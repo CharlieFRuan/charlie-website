@@ -108,7 +108,7 @@ sections:
           location: Sunnyvale, CA
           date_start: '2023-06-01'
           date_end: '2023-08-31'
-          description: Worked on Core ML’s Distributed Runtime team, optimizing Tensorflow's checkpoint to reduce wasted TPU cycles
+          description: Worked on Core ML’s Distributed Runtime team, optimizing TensorFlow's checkpoint to reduce wasted TPU cycles
         - title: Software Engineer Intern
           company: Google Cloud
           company_url: https://techsysinfra.google/
