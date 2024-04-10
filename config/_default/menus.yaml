@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Industry Experience
-    url: '#experience'
+  - name: Experience
+    url: '#research-experience'
     weight: 50
   - name: Contact
     url: '#contact'
