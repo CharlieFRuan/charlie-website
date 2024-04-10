@@ -59,6 +59,40 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id: research-experience
+    content:
+      title: Research Experience
+      date_format: Jan 2006
+      items:
+        - title: Research Assistant
+          company: Prof. Tianqi Chen & Prof. Zhihao Jia, Carnegie Mellon University
+          company_url: ''
+          company_logo: cmu-icon
+          location: Pittsburgh, PA
+          date_start: '2024-03-01'
+          date_end: ''
+          description: Investigating distributed LLM serving systems.
+
+        - title: Research Assistant
+          company: Prof. Christopher De Sa, Cornell University
+          company_url: ''
+          company_logo: cornell-icon
+          location: Ithaca, NY
+          date_start: '2022-09-01'
+          date_end: '2023-06-30'
+          description: Investigated finding provably better data permutations in distributed learning. [CD-GraB](https://openreview.net/pdf?id=ISRyILhAyS) was accepted by NeurIPS'23.
+
+        - title: Research Assistant
+          company: Prof. Jim Dai, Cornell University
+          company_url: ''
+          company_logo: cornell-icon
+          location: Pittsburgh, PA
+          date_start: '2021-11-01'
+          date_end: '2022-09-30'
+          description: Investigated using variance-reduction method, approximating martingale-process, in proximal policy optimization with large state space
+    design:
+      columns: '2'
+  - block: experience
     id: experience
     content:
       title: Industry Experience
