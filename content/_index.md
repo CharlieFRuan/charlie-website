@@ -32,13 +32,13 @@ sections:
           date_end: '2023-08-31'
           description: Worked on Core ML’s Distributed Runtime team, optimizing Tensorflow's checkpoint to reduce wasted TPU cycles
         - title: Software Engineer Intern
-          company: Google
+          company: Google Cloud
           company_url: ''
           company_logo: org-gc
           location: Sunnyvale, CA
           date_start: '2022-08-01'
           date_end: '2022-10-31'
-          description: Worked on Google Cloud's Technical Infrastructure team, deploying accelerators in Google data centers using OpenBMC.
+          description: Worked on Technical Infrastructure's Platform team, deploying accelerators in Google data centers using OpenBMC, implementing Linux daemon and firmware updates
         - title: Software Engineer Intern
           company: Amazon Robotics
           company_url: ''
@@ -58,7 +58,7 @@ sections:
         - title: Software Engineer Intern
           company: Morgina Information Technology
           company_url: http://www.morgina.com.cn/
-          # company_logo: ''
+          company_logo: morgina-icon
           location: Shanghai, China
           date_start: '2020-06-01'
           date_end: '2020-07-31'
