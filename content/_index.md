@@ -46,7 +46,6 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: Enable universal native deployment for LLMs through machine learning compilation techniques
-          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/mlc-ai/mlc-llm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">mlc-llm</a></div>
         - title: Project Lead
           company: Web LLM
           company_url: https://github.com/mlc-ai/web-llm
@@ -55,7 +54,6 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: Leading the project to bring LLMs to run locally in client-side browser with WebGPU acceleration
-          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/mlc-ai/web-llm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">web-llm</a></div>
     design:
       columns: '2'
   - block: experience
@@ -72,20 +70,18 @@ sections:
           date_start: '2024-03-01'
           date_end: ''
           description: Investigating distributed LLM serving systems
-
         - title: Research Assistant
           company: Prof. Christopher De Sa, Cornell University
           company_url: ''
-          company_logo: cornell-icon
+          company_logo: cmu-icon
           location: Ithaca, NY
           date_start: '2022-09-01'
           date_end: '2023-06-30'
           description: Investigated finding provably better data permutations in distributed learning. [CD-GraB](https://openreview.net/pdf?id=ISRyILhAyS) was accepted by NeurIPS'23
-
         - title: Research Assistant
           company: Prof. Jim Dai, Cornell University
           company_url: ''
-          company_logo: cornell-icon
+          company_logo: cmu-icon
           location: Pittsburgh, PA
           date_start: '2021-11-01'
           date_end: '2022-09-30'
