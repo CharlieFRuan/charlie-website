@@ -26,7 +26,7 @@ sections:
         - title: Software Engineer Intern
           company: Google
           company_url: ''
-          company_logo: org-x
+          company_logo: google-icon
           location: Sunnyvale, CA
           date_start: '2023-06-01'
           date_end: '2023-08-31'
@@ -34,7 +34,7 @@ sections:
         - title: Software Engineer Intern
           company: Google Cloud
           company_url: ''
-          company_logo: org-x
+          company_logo: google-icon
           location: Sunnyvale, CA
           date_start: '2022-08-01'
           date_end: '2022-10-31'
@@ -42,7 +42,7 @@ sections:
         - title: Software Engineer Intern
           company: Amazon Robotics
           company_url: https://www.amazon.jobs/en/teams/amazon-robotics
-          company_logo: org-x
+          company_logo: ar-icon
           location: Greater Boston, MA
           date_start: '2022-05-01'
           date_end: '2022-07-31'
