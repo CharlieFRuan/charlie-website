@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:cfruan@andrew.cmu.edu
+    link: mailto:cfruan@cs.cmu.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/CharlieFRuan

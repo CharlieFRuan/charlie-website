@@ -151,7 +151,7 @@ sections:
       text: |-
         I will be applying for Fall 2025 PhD programs in Computer Science. Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
-      email: cfruan@andrew.cmu.edu
+      email: cfruan@cs.cmu.edu
       contact_links:
         - icon: linkedin
           icon_pack: fab
