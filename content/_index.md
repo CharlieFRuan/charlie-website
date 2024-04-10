@@ -53,7 +53,7 @@ sections:
           location: Pittsburgh, PA
           date_start: '2023-06-01'
           date_end: ''
-          description: Bring LLMs to run locally in client-side browser with WebGPU acceleration
+          description: Leading the project to bring LLMs to run locally in client-side browser with WebGPU acceleration
     design:
       columns: '2'
   - block: experience
