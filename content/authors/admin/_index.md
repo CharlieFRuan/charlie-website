@@ -27,11 +27,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a first-year MSCS student at Carnegie Mellon University.
 
-# My focus is at the intersection of machine learning and systems, with various open-source
-# development experience. I am a core contributor to the MLC-LLM project, leading the [WebLLM](https://github.com/mlc-ai/web-llm) project,
-# and have been contributing to the ApacheTVM project. I also contributed to Tensorflow as part of
-# Google's TF Runtime team in Summer 2023.
-
 # Interests to show in About widget
 interests:
   - Machine Learning Systems
@@ -86,7 +81,7 @@ where I am fortunate to work with [Prof. Tianqi Chen](https://tqchen.com/) as pa
 
 My focus is at the intersection of machine learning and systems, with various open-source
 development experience. I am the current lead of [WebLLM](https://github.com/mlc-ai/web-llm), a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm), and have
-been contributing to [ApacheTVM](https://github.com/apache/tvm) as well. I also contributed to [Tensorflow](https://github.com/tensorflow/tensorflow) as part of
+been contributing to [ApacheTVM](https://github.com/apache/tvm). I also contributed to [Tensorflow](https://github.com/tensorflow/tensorflow) as part of
 Google's TF Runtime team in Summer 2023.
 
 Prior to coming to CMU, I obtained my B.S. degree in Computer Science and Operations Research from Cornell University,
