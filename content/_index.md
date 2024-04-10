@@ -25,7 +25,7 @@ sections:
       items:
         - title: Software Engineer Intern
           company: Google
-          company_url: ''
+          company_url: https://www.tensorflow.org/
           company_logo: google-icon
           location: Sunnyvale, CA
           date_start: '2023-06-01'
@@ -33,7 +33,7 @@ sections:
           description: Worked on Core ML’s Distributed Runtime team, optimizing Tensorflow's checkpoint to reduce wasted TPU cycles
         - title: Software Engineer Intern
           company: Google Cloud
-          company_url: ''
+          company_url: https://techsysinfra.google/
           company_logo: google-icon
           location: Sunnyvale, CA
           date_start: '2022-08-01'
@@ -42,7 +42,7 @@ sections:
         - title: Software Engineer Intern
           company: Amazon Robotics
           company_url: https://www.amazon.jobs/en/teams/amazon-robotics
-          company_logo: ar-icon
+          company_logo: amazon-icon
           location: Greater Boston, MA
           date_start: '2022-05-01'
           date_end: '2022-07-31'
