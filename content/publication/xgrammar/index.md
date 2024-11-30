@@ -12,10 +12,10 @@ authors:
 
 # Author notes (optional)
 # author_notes:
-#   - 'Equal contribution, alphabetical order'
-#   - 'Equal contribution, alphabetical order'
-#   - 'Equal contribution, alphabetical order'
-#   - 'Equal contribution, alphabetical order'
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2024-11-22'
 doi: ''
