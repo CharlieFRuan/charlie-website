@@ -3,7 +3,7 @@ title: 'XGrammar: Flexible and Efficient Structured Generation Engine for Large 
 
 authors:
   - Yixin Dong
-  - Charlie F Ruan
+  - Charlie F. Ruan
   - Yaxing Cai
   - Ruihang Lai
   - Ziyi Xu

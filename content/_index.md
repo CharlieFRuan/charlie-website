@@ -24,7 +24,7 @@ sections:
           - publication
     design:
       columns: '2'
-      view: list
+      view: citation
   - block: experience
     id: projects
     content:
