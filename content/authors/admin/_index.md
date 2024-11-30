@@ -70,7 +70,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/charlie_ruan_CV.pdf
+    link: uploads/charlie_ruan_CV_website.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
