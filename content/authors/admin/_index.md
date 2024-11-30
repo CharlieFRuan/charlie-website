@@ -76,15 +76,13 @@ social:
 highlight_name: true
 ---
 
-I am a first-year MSCS student at Carnegie Mellon University,
-where I am fortunate to work with [Prof. Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/).
+I am a second-year MSCS student at Carnegie Mellon University,
+where I am fortunate to work with [Prof. Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/), where I have also collaborated with [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). I am currently visiting UC Berkeley, working with [Prof. Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) as part of the [Sky Computing Lab](https://sky.cs.berkeley.edu/).
 
-My focus is at the intersection of machine learning and systems, with various open-source
-development experience. I am the current lead of [WebLLM](https://github.com/mlc-ai/web-llm), a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm), and have
-been contributing to [ApacheTVM](https://github.com/apache/tvm). I also contributed to [TensorFlow](https://github.com/tensorflow/tensorflow) as part of
-Google's TF Runtime team in Summer 2023.
+I focus on the systems problems in machine learning systems, with various open-source
+development experience. I am the current lead of [WebLLM](https://github.com/mlc-ai/web-llm) and a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm).
 
 Prior to coming to CMU, I obtained my B.S. degree in Computer Science and Operations Research from Cornell University,
-where I was fortunate to work with [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/) on distributed ML and with [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/) on reinforcement learning.
+where I was fortunate to work with [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/) on distributed training and with [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/) on stochastic processes.
 
 {style="text-align: justify;"}

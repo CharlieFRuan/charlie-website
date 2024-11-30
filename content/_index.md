@@ -39,21 +39,21 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Core Contributor
-          company: MLC LLM
+          company: MLC-LLM
           company_url: https://github.com/mlc-ai/mlc-llm
           company_logo: mlc-icon
           location: Pittsburgh, PA
           date_start: '2023-06-01'
           date_end: ''
-          description: Enable universal native deployment for LLMs through machine learning compilation techniques
+          description: Enable universal native deployment for LLMs through machine learning compilation techniques. [GitHub (19.3k stars)](https://github.com/mlc-ai/mlc-llm)
         - title: Project Lead
-          company: Web LLM
+          company: WebLLM
           company_url: https://github.com/mlc-ai/web-llm
           company_logo: mlc-icon
           location: Pittsburgh, PA
           date_start: '2023-06-01'
           date_end: ''
-          description: Leading the project to bring LLMs to run locally in client-side browser with WebGPU acceleration
+          description: Leading the project to bring LLMs to run locally in client-side browser with WebGPU acceleration. [GitHub (13.9k stars)](https://github.com/mlc-ai/web-llm)
     design:
       columns: '2'
   - block: experience
@@ -62,6 +62,14 @@ sections:
       title: Research Experience
       date_format: Jan 2006
       items:
+        - title: Visiting Student Researcher
+          company: Prof. Ion Stoica, UC Berkeley
+          company_url: ''
+          company_logo: ucb-icon
+          location: Berkeley, CA
+          date_start: '2024-08-15'
+          date_end: ''
+          description: Sky Computing Lab; Investigating GPU kernel language/compiler
         - title: Research Assistant
           company: Prof. Tianqi Chen & Prof. Zhihao Jia, Carnegie Mellon University
           company_url: ''
@@ -69,7 +77,7 @@ sections:
           location: Pittsburgh, PA
           date_start: '2024-03-01'
           date_end: ''
-          description: Investigating distributed LLM serving systems
+          description: Catalyst Group; Investigating distributed LLM serving systems
         - title: Research Assistant
           company: Prof. Christopher De Sa, Cornell University
           company_url: ''
