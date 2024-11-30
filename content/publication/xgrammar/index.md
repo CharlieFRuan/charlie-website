@@ -26,7 +26,7 @@ publishDate: '2024-11-22'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
 publication: Under Submission
