@@ -76,8 +76,7 @@ social:
 highlight_name: true
 ---
 
-I am a second-year MSCS student at Carnegie Mellon University,
-where I am fortunate to work with [Prof. Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/), where I have also collaborated with [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). I am currently visiting UC Berkeley, working with [Prof. Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) as part of the [Sky Computing Lab](https://sky.cs.berkeley.edu/).
+I am a second-year MSCS student at Carnegie Mellon University. I am fortunate to work with [Prof. Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/), where I have also collaborated with [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). I am currently visiting UC Berkeley, working with [Prof. Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) as part of the [Sky Computing Lab](https://sky.cs.berkeley.edu/).
 
 I focus on the systems problems in machine learning systems, with various open-source
 development experience. I am the current lead of [WebLLM](https://github.com/mlc-ai/web-llm) and a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm).
