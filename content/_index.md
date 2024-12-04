@@ -53,7 +53,7 @@ sections:
           location: Pittsburgh, PA
           date_start: '2023-06-01'
           date_end: ''
-          description: Leading the project to bring LLMs to run locally in client-side browser with WebGPU acceleration. [GitHub (13.9k stars)](https://github.com/mlc-ai/web-llm); [talk at Google WebAI Summit '24](https://www.youtube.com/watch?v=MhTCzq7iTy0&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt&index=7)
+          description: Leading the project to bring LLMs to run locally in client-side browser with WebGPU acceleration. [GitHub (13.9k stars)](https://github.com/mlc-ai/web-llm); [talk at Google WebAI Summit '24](https://www.youtube.com/watch?v=MhTCzq7iTy0&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt)
     design:
       columns: '2'
   - block: experience
