@@ -43,9 +43,12 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Blog
+  url: https://blog.mlc.ai/2024/06/13/webllm-a-high-performance-in-browser-llm-inference-engine
+- name: Talk
+  url: https://www.youtube.com/watch?v=MhTCzq7iTy0&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt
+
 
 # url_pdf: 'https://openreview.net/pdf?id=ISRyILhAyS'
 # url_poster: 'https://docs.google.com/presentation/d/1t3zp4-4bu7gZcFs-gJL0okiSw_0hd01X/edit?usp=sharing'
