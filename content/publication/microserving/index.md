@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://openreview.net/pdf?id=ISRyILhAyS'
+url_pdf: 'https://arxiv.org/abs/2412.12488'
 # url_poster: 'https://docs.google.com/presentation/d/1t3zp4-4bu7gZcFs-gJL0okiSw_0hd01X/edit?usp=sharing'
 # url_code: 'https://github.com/GarlGuo/CD-GraB'
 
