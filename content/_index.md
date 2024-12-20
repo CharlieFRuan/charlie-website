@@ -25,6 +25,10 @@ sections:
       count: 0
     design:
       columns: '2'
+      # list
+      # compact
+      # card
+      # citation
       view: list
   - block: experience
     id: projects
