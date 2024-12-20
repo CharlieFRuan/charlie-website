@@ -162,7 +162,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I will be applying for Fall 2025 PhD programs in Computer Science. Please feel free to contact me!
+        I am applying for Fall 2025 PhD programs in machine learning systems. Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
       email: cfruan@cs.cmu.edu
       contact_links:

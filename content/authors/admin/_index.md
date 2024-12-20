@@ -84,4 +84,6 @@ development experience. I am the current lead of [WebLLM](https://github.com/mlc
 Prior to coming to CMU, I obtained my B.S. degree in Computer Science and Operations Research from Cornell University,
 where I was fortunate to work with [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/) on distributed training and with [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/) on stochastic processes.
 
+I am applying for Fall 2025 PhD programs in machine learning systems. Please feel free to contact me!
+
 {style="text-align: justify;"}
