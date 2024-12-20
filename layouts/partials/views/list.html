@@ -26,8 +26,10 @@
 
 <div class="view-list view-list-item">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
-  <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-
+  <!-- <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a> -->
+  <span>
+    {{ $item.Title }}
+  </span>
   {{ if eq $item.Type "event" }}
   <div class="article-metadata">
     <span>
@@ -45,6 +47,12 @@
     {{ partial "page_metadata_authors" $item }}
   </div>
   {{ end }}
+
+  <!-- {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}}.
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}}.
+  {{ end }} -->
 
   {{ if $has_attachments }}
   <div class="btn-links">
