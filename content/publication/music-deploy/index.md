@@ -3,7 +3,7 @@ title: 'Local deployment of large-scale music AI models on commodity hardware'
 
 authors:
   - Xun Zhou
-  - Charlie Ruan
+  - charlieruan
   - Zihe Zhao
   - Tianqi Chen
   - Chris Donahue

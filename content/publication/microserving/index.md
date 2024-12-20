@@ -4,7 +4,7 @@ title: 'A System for Microserving of LLMs'
 authors:
   - Hongyi Jin
   - Ruihang Lai
-  - Charlie F. Ruan
+  - charlieruan
   - Yingcheng Wang
   - Todd Mowry
   - Xupeng Miao

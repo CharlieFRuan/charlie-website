@@ -2,7 +2,7 @@
 title: 'WebLLM: A High-Performance In-Browser LLM Inference Engine'
 
 authors:
-  - Charlie F. Ruan
+  - charlieruan
   - Yucheng Qin
   - Xun Zhou
   - Ruihang Lai

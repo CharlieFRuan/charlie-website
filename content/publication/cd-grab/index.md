@@ -6,7 +6,7 @@ authors:
   - Wentao Guo
   - Khiem Pham
   - Tiancheng Yuan
-  - Charlie F. Ruan
+  - charlieruan
   - Yucheng Lu
   - Christopher De Sa
 

@@ -5,7 +5,7 @@ authors:
   - Siyuan Feng
   - Jiawei Liu
   - Ruihang Lai
-  - Charlie F. Ruan
+  - charlieruan
   - Yong Yu
   - Lingming Zhang
   - Tianqi Chen
