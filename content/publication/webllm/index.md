@@ -50,7 +50,7 @@ links:
   url: https://www.youtube.com/watch?v=MhTCzq7iTy0&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt
 
 
-# url_pdf: 'https://openreview.net/pdf?id=ISRyILhAyS'
+url_pdf: 'https://arxiv.org/abs/2412.15803'
 # url_poster: 'https://docs.google.com/presentation/d/1t3zp4-4bu7gZcFs-gJL0okiSw_0hd01X/edit?usp=sharing'
 url_code: 'https://github.com/mlc-ai/web-llm'
 
