@@ -47,7 +47,7 @@ featured: true
 
 url_pdf: 'https://arxiv.org/abs/2412.12488'
 # url_poster: 'https://docs.google.com/presentation/d/1t3zp4-4bu7gZcFs-gJL0okiSw_0hd01X/edit?usp=sharing'
-# url_code: 'https://github.com/GarlGuo/CD-GraB'
+url_code: 'https://github.com/mlc-ai/mlc-llm'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
