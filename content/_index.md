@@ -68,13 +68,13 @@ sections:
       date_format: Jan 2006
       items:
         - title: Graduate Student Researcher
-          company: UC Berkeley
+          company: Sky Computing Lab, UC Berkeley
           company_url: ''
           company_logo: ucb-icon
           location: Berkeley, CA
           date_start: '2025-06-01'
           date_end: ''
-          description: Sky Computing Lab
+          description:
         - title: Research Assistant
           company: Prof. Tianqi Chen & Prof. Zhihao Jia, Carnegie Mellon University
           company_url: ''
