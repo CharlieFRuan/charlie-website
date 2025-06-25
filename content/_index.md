@@ -67,14 +67,14 @@ sections:
       title: Research Experience
       date_format: Jan 2006
       items:
-        - title: Visiting Student Researcher
-          company: Prof. Ion Stoica, UC Berkeley
+        - title: Graduate Student Researcher
+          company: UC Berkeley
           company_url: ''
           company_logo: ucb-icon
           location: Berkeley, CA
-          date_start: '2024-08-15'
+          date_start: '2025-06-01'
           date_end: ''
-          description: Sky Computing Lab; Investigating GPU kernel language/compiler
+          description: Sky Computing Lab
         - title: Research Assistant
           company: Prof. Tianqi Chen & Prof. Zhihao Jia, Carnegie Mellon University
           company_url: ''
@@ -82,7 +82,7 @@ sections:
           location: Pittsburgh, PA
           date_start: '2024-03-01'
           date_end: ''
-          description: Catalyst Group; Investigating distributed LLM serving systems
+          description: Catalyst Group; LLM serving systems
         - title: Research Assistant
           company: Prof. Christopher De Sa, Cornell University
           company_url: ''
@@ -161,10 +161,10 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        I am applying for Fall 2025 PhD programs in machine learning systems. Please feel free to contact me!
+      # text: |-
+        # I am applying for Fall 2025 PhD programs in machine learning systems. Please feel free to contact me!
       # Contact (add or remove contact options as necessary)
-      email: cfruan@cs.cmu.edu
+      email: charlieruan@berkeley.edu
       contact_links:
         - icon: linkedin
           icon_pack: fab

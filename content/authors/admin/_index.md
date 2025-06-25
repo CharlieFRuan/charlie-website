@@ -17,15 +17,15 @@ last_name: Ruan
 superuser: true
 
 # Role/position/tagline
-role: MSCS @ CMU
+role: CS PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Carnegie Mellon University
-    url: https://www.cmu.edu/
+  - name: UC Berkeley Sky Computing Lab
+    url: https://sky.cs.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first-year MSCS student at Carnegie Mellon University.
+bio: I am a CS PhD student at UC Berkeley Sky Computing Lab.
 
 # Interests to show in About widget
 interests:
@@ -35,12 +35,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: UC Berkeley, 2025 - Present
     - course: MS in Computer Science
-      institution: Carnegie Mellon University
-      year: 2025
+      institution: Carnegie Mellon University, 2023 - 2025
     - course: BS in Computer Science & Operations Research
-      institution: Cornell University
-      year: 2023
+      institution: Cornell University, 2019 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:cfruan@cs.cmu.edu
+    link: mailto:charlieruan@berkeley.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/CharlieFRuan
@@ -76,14 +76,14 @@ social:
 highlight_name: true
 ---
 
-I am a second-year MSCS student at Carnegie Mellon University. I am fortunate to work with [Prof. Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/), where I have also collaborated with [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). I am currently visiting UC Berkeley, working with [Prof. Ion Stoica](https://people.eecs.berkeley.edu/~istoica/) as part of the [Sky Computing Lab](https://sky.cs.berkeley.edu/).
+I am a first-year CS PhD student at UC Berkeley [Sky Computing Lab](https://sky.cs.berkeley.edu/), working on AI systems. I also have the fortune to work with [Prof. Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/).
 
-I focus on the systems problems in machine learning systems, with various open-source
-development experience. I am the current lead of [WebLLM](https://github.com/mlc-ai/web-llm) and a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm).
+I obtained my M.S. degree in Computer Science at Carnegie Mellon University, advised by Prof. Tianqi Chen and collaborated with [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/).
 
-Prior to coming to CMU, I obtained my B.S. degree in Computer Science and Operations Research from Cornell University,
-where I was fortunate to work with [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/) on distributed training and with [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/) on stochastic processes.
+I focus on systems problem in emerging machine learning workloads, with various open-source
+development experience. I am the lead of [WebLLM](https://github.com/mlc-ai/web-llm) and a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm).
 
-I am applying for Fall 2025 PhD programs in machine learning systems. Please feel free to contact me!
+I obtained my B.S. degree in Computer Science and Operations Research from Cornell University,
+where I was fortunate to work with [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/) on distributed training and with [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/) on reinforcement learning and stochastic processes.
 
 {style="text-align: justify;"}
