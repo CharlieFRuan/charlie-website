@@ -78,7 +78,7 @@ highlight_name: true
 
 I am a first-year CS PhD student at UC Berkeley [Sky Computing Lab](https://sky.cs.berkeley.edu/) advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/). I also have the fortune to work with [Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/).
 
-I obtained my M.S. degree in Computer Science at Carnegie Mellon University, advised by Prof. Tianqi Chen and collaborated with [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/).
+I obtained my M.S. degree in Computer Science at Carnegie Mellon University, advised by Tianqi Chen and collaborated with [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/).
 
 I focus on AI systems, with various open-source development experience. I am currently working on post-training and building [SkyRL](https://github.com/NovaSky-AI/SkyRL). Besides, I am the lead of [WebLLM](https://github.com/mlc-ai/web-llm) and a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm).
 
