@@ -76,12 +76,11 @@ social:
 highlight_name: true
 ---
 
-I am a first-year CS PhD student at UC Berkeley [Sky Computing Lab](https://sky.cs.berkeley.edu/), working on AI systems. I also have the fortune to work with [Prof. Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/).
+I am a first-year CS PhD student at UC Berkeley [Sky Computing Lab](https://sky.cs.berkeley.edu/) advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/). I also have the fortune to work with [Tianqi Chen](https://tqchen.com/) as part of the [Catalyst Group](https://catalyst.cs.cmu.edu/).
 
-I obtained my M.S. degree in Computer Science at Carnegie Mellon University, advised by Prof. Tianqi Chen and collaborated with [Prof. Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/).
+I obtained my M.S. degree in Computer Science at Carnegie Mellon University, advised by Prof. Tianqi Chen and collaborated with [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/).
 
-I focus on systems problem in emerging machine learning workloads, with various open-source
-development experience. I am the lead of [WebLLM](https://github.com/mlc-ai/web-llm) and a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm).
+I focus on AI systems, with various open-source development experience. I am currently working on post-training and building [SkyRL](https://github.com/NovaSky-AI/SkyRL). Besides, I am the lead of [WebLLM](https://github.com/mlc-ai/web-llm) and a core contributor to [MLC-LLM](https://github.com/mlc-ai/mlc-llm).
 
 I obtained my B.S. degree in Computer Science and Operations Research from Cornell University,
 where I was fortunate to work with [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/) on distributed training and with [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/) on reinforcement learning and stochastic processes.
