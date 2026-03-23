@@ -61,7 +61,7 @@ social:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=ZYVCncwAAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=en&user=BV1zDskAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/charlie-ruan/
