@@ -86,3 +86,4 @@ I obtained my B.S. degree in Computer Science and Operations Research from Corne
 where I was fortunate to work with [Prof. Christopher De Sa](https://www.cs.cornell.edu/~cdesa/) on distributed training and with [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/) on reinforcement learning and stochastic processes.
 
 {style="text-align: justify;"}
+
